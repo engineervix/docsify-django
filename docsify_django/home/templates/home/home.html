@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock title %}
+{% block description %}This is Project X{% endblock description %}
+
+{% block content %}
+<section class="section">
+    <div class="container">
+        <h1 class="title has-text-centered">Welcome to Project X</h1>
+
+        <p class="is-size-4 has-text-centered">Check out the <a href="{% url 'docs:docsify-view' %}">docs</a></p>
+    </div>
+</section>
+{% endblock content %}

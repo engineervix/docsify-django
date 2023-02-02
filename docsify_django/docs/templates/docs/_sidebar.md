@@ -1,0 +1,21 @@
+- [Introduction](/)
+- Section 1
+  - [Lorem Ipsum](section-01/index.md)
+  - [Bacon Ipsum](section-01/section.md)
+  - [Office Ipsum](section-01/another-section.md)
+- Section 2
+  - [Setup](section-02/index.md)
+  - [Deployment](section-02/stuff.md)
+  - [Maintenance](section-02/more-stuff.md)
+- Section 3
+  - [Introduction](section-03/index.md)
+  - [Modifying Bolts and Nuts](section-03/lorem-ipsum.md)
+  - [Choosing Rocket Fuel](section-03/lorem-docsum.md)
+- Section 4
+  - [Space 101](section-04/index.md)
+  - [Androids and Avatars](section-04/something-here.md)
+  - [Spaceship cleanup](section-04/look-some-docs.md)
+- Section 5
+  - [First things first](section-05/index.md)
+  - [When things go wrong](section-05/something.md)
+  - [Unlocking the vault](section-05/another-thing.md)
