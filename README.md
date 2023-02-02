@@ -36,8 +36,6 @@
 
 - run the development server
 
-- migrate
-
   ```bash
   ./manage.py runserver
   ```
