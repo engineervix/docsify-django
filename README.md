@@ -16,7 +16,7 @@
 
 - clone the repo and `cd` into the cloned directory.
 - set up a fresh virtual environment using your preferred way of managing python virtual environments.
-- install dependencies (the only dependency is Django)
+- install dependencies (`Django` and `crispy-bulma`)
 
   ```bash
   pip install -r requirements.txt
