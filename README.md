@@ -2,6 +2,9 @@
 
 > A small proof-of-concept illustrating how to integrate markdown-driven documentation (in this case, [docsify](https://docsify.js.org)) with your [Django](https://djangoproject.com) project, so that only your authenticated users can access the docs.
 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Docsify](https://img.shields.io/badge/docsify-%232ECE53.svg?style=for-the-badge&logo=docsify&logoColor=white)
+
 ## Why this?
 
 - Given that
