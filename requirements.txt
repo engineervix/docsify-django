@@ -1,2 +1,2 @@
-Django[argon2,bcrypt]==6.0.5
+Django[argon2,bcrypt]==6.1.1
 crispy-bulma==0.12.0
